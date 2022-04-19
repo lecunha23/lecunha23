@@ -1,4 +1,4 @@
-### Ola eu sou o Leandro Cunha!!!
+### Ola, Eu sou o Leandro Cunha!!!
 
 - 🌱 Estudando Análise e deselvolvimento de sistemas
 
