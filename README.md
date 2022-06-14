@@ -1,6 +1,6 @@
 ### Ola, Eu sou o Leandro Cunha!!!
 
-- 🌱 Estudando Análise e deselvolvimento de sistemas
+- 🌱 Estudando Análise e desenvolvimento de sistemas!
 
 <div align="center">
   <a href="https://github.com/lecunha23">
