@@ -5,7 +5,11 @@
 
 ![Lecunha23 GitHub stats](https://github-readme-stats.vercel.app/api?username=lecunha23&show_icons=true&theme=tokyonight)
 
+## Tecnologias
 
+<div style="display: inline_block"><br/>
+<img align="center alt="Ruby" src"https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+/div>
 
 
 
