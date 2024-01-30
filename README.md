@@ -8,7 +8,7 @@
 ## Tecnologias
 
 <div styLe="display: inline_block"><br/>
-<img align="center alt="Ruby" src"https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img align="center alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </div>
 
 
