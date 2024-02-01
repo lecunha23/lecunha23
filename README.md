@@ -2,8 +2,15 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha2812/)
 
+```ruby 
+class Programmer
 
-![Lecunha23 GitHub stats](https://github-readme-stats.vercel.app/api?username=lecunha23&show_icons=true&theme=dark)
+	def initialize() 
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lecunha23&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+
+
 
 ## Tecnologias
 
