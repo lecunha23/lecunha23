@@ -10,6 +10,7 @@ class Programmer
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lecunha23&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
+[![wakatime](https://wakatime.com/badge/user/018d517d-51c2-45ac-8089-f4896b99beff.svg)](https://wakatime.com/@018d517d-51c2-45ac-8089-f4896b99beff)
 
 
 ## Tecnologias
