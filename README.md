@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrocunha2812/)
 
 ```ruby 
-class Programmer
+class Programmer 
 
 	def initialize() 
 ```
@@ -13,7 +13,7 @@ class Programmer
 [![wakatime](https://wakatime.com/badge/user/018d517d-51c2-45ac-8089-f4896b99beff.svg)](https://wakatime.com/@018d517d-51c2-45ac-8089-f4896b99beff)
 
 
-:rocket: Tecnologias :rocket:
+:computer: :rocket: Tecnologias :rocket: :computer:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lecunha23&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
